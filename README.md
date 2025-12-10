@@ -4,7 +4,7 @@ This project is a Recursive Directory Scanner written entirely in TypeScript. Th
 
 The program scans any directory path provided by the user and displays a clean, hierarchical tree structure showing all subfolders and files. It uses recursion to traverse nested folders, async/await to handle file system operations, and custom exceptions to manage invalid paths or permission errors.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=bwwVnXDmO2Q)
 
 # Development Environment
 
